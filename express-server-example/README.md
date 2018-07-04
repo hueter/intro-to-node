@@ -16,4 +16,10 @@
 
     (must be in the same directory as `package.json`)
 
-3.
+3.  Run the server
+
+    ```sh
+    nodemon app.js
+    ```
+
+4.  Hit the server in your browser (or in a client like Postman or [Insomnia](https://insomnia.rest/)).
